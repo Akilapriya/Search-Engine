@@ -29,7 +29,9 @@ tiktoken
 langchain_astradb
 gradio
 requests
-duckduckgo-search
+ddgs
+langchain-community
+
 
 
 
